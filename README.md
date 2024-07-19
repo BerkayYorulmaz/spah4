@@ -1,6 +1,8 @@
 # spah4
 SPAtial Hybrid 4 efficiency (SPAH4) metric to compare to raster maps
 
+[![DOI](https://zenodo.org/badge/831004276.svg)](https://zenodo.org/doi/10.5281/zenodo.12784406)
+
 authors:                 Eymen Berkay Yorulmaz, Elif Kartal, Mehmet Cüneyd Demirel
 
 author's organization:   Demirel's Hydrology and Remote Sensing LAB, Dept. of Civil Engineering, Istanbul Technical University
